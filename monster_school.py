@@ -39,6 +39,7 @@ def manage_monster_grades():
     """
     # Your code here
 
+
 # Test your function (don't modify this part)
 if __name__ == "__main__":
     print("Testing monster school management...")
