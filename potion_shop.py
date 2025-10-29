@@ -37,8 +37,7 @@ def manage_potion_inventory():
     7. Return the inventory dictionary
     """
     # Your code here
-    
-    pass
+   
 
 # Test your function (don't modify this part)
 if __name__ == "__main__":

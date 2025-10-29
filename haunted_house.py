@@ -35,7 +35,6 @@ def manage_haunted_house():
     """
     # Your code here
     
-    pass
 
 # Test your function (don't modify this part)
 if __name__ == "__main__":

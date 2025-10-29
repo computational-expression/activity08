@@ -39,7 +39,6 @@ def manage_monster_grades():
     """
     # Your code here
     
-    pass
 
 # Test your function (don't modify this part)
 if __name__ == "__main__":
