@@ -28,11 +28,12 @@ def manage_potion_inventory():
     4. Add a new ingredient of your choice with a quantity
        Example: "ghost_essence": 6
     
-    5. Update an existing ingredient (add some quantity to one you already have)
-       Example: Add 5 to "unicorn_hair"
+    5. Update an existing ingredient quantity (add some quantity to one you already have)
+       Example: Add 5 to "unicorn_hair" so it becomes 13
+       Hint: inventory["unicorn_hair"] += 5
     
-    6. Calculate and print the total number of items:
-       Format: "Total items in stock: [total]"
+    6. Print the total number of different ingredients:
+       Format: "Total ingredient types: [number]"
     
     7. Return the inventory dictionary
     """

@@ -28,14 +28,10 @@ def manage_monster_grades():
     4. Add a new student of your choice with a grade
        Example: "Frankenstein Fred": 91
     
-    5. Calculate and print the class average (sum all grades and divide by number of students):
-       Format: "Class average: [average]%"
-       Hint: Round to 1 decimal place
+    5. Print the total number of students:
+       Format: "Total students: [number]"
     
-    6. Find and print the top student (student with highest grade):
-       Format: "Top student: [name] with [grade]%"
-    
-    7. Return the grades dictionary
+    6. Return the grades dictionary
     """
     # Your code here
 
