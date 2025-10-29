@@ -38,7 +38,6 @@ def manage_monster_grades():
     7. Return the grades dictionary
     """
     # Your code here
-    
 
 # Test your function (don't modify this part)
 if __name__ == "__main__":
